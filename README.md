@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**maliknie/maliknie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 19-year-old aspiring Computer Science student
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+- **Projects**
+  - [CPU-Emulator in Python:](https://github.com/maliknie/emulator-in-python) A Python-based CPU emulator featuring a self-designed instruction set and an assembler for translating assembly-like code.
+  - [Neural Network from Scratch:](https://github.com/maliknie/NeuralNetwork-from-scratch) A collaborative project to build a neural network for image classification entirely from scratch, focusing on learning and experimentation.
+
+- **Interests**
+  - Computer Architecture: Interested in the design and functionality of low-level systems and tools.
+  - Machine Learning: Focused on understanding core principles and foundational models.
+ 
+---
+
+## Skills
+- **Languages**: Mainly Python, little experience in C and x86 Assembly
+
+---
+
+## Contact
+- **GitHub**: [github.com/maliknie](https://github.com/maliknie)
+- **Discord**: malik7184
