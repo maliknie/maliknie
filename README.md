@@ -1,9 +1,4 @@
-## Hi there 👋
-
-I'm a 19-year-old aspiring Computer Science student
-
----
-
+## Hi
 ## About me
 - **Projects**
   - [Locally ran AI Chatbot](https://github.com/maliknie/local-ai-desktop) An electron based web app that allows users to run AI models locally using Ollama.
@@ -19,6 +14,10 @@ I'm a 19-year-old aspiring Computer Science student
 
 ## Skills
 - **Languages**: Mainly Python, little experience in C and x86 Assembly
+
+---
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=maliknie)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
