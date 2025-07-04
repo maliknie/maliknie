@@ -13,7 +13,7 @@
 ---
 
 ## Skills
-- **Languages**: Mainly Python, little experience in C and x86 Assembly
+- **Languages**: Mainly Python, little experience in C and x86-64 Assembly
 
 ---
 
